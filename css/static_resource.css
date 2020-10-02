@@ -2097,7 +2097,7 @@ a:visited {
     float: left;
     margin: 5px 7px 0 0;
     padding-left: 9px;
-    background: url('../resource/head_menu_161206.png') 0 11px no-repeat;
+    background: url('../resource/bl_head_menu.jpg') 0 11px no-repeat;
     font-size: 0;
     line-height: 0
 }
@@ -2639,7 +2639,7 @@ a:visited {
     font-size: 0;
     line-height: 0;
     vertical-align: middle;
-    background: url(//cdnimg.melon.co.kr/resource/image/web/common/bg_sprite_realtime_search.png) no-repeat 0 -169px
+    background: url('../resource/bg_sprite_realtime_search.png') no-repeat 0 -169px
 }
 
 .realtime_soar_keyword .wrap_rank .icon {
@@ -2648,7 +2648,7 @@ a:visited {
     width: 7px;
     height: 7px;
     margin: 1px 3px 0 0;
-    background: url(//cdnimg.melon.co.kr/resource/image/web/common/bg_sprite_realtime_search.png) no-repeat -22px -155px;
+    background: url('../resource/bg_sprite_realtime_search.png') no-repeat -22px -155px;
     font-size: 0;
     line-height: 0
 }
@@ -2663,7 +2663,7 @@ a:visited {
     width: 7px;
     height: 7px;
     margin: 3px 3px 0 0;
-    background: url(//cdnimg.melon.co.kr/resource/image/web/common/bg_sprite_realtime_search.png) no-repeat 0 -155px;
+    background: url('../resource/bg_sprite_realtime_search.png') no-repeat 0 -155px;
     font-size: 0;
     line-height: 0;
     vertical-align: top
@@ -2683,7 +2683,7 @@ a:visited {
     width: 7px;
     height: 7px;
     margin-top: 0;
-    background: url(//cdnimg.melon.co.kr/resource/image/web/common/bg_sprite_realtime_search.png) no-repeat -12px -155px;
+    background: url('../resource/bg_sprite_realtime_search.png') no-repeat -12px -155px;
     font-size: 0;
     line-height: 0
 }
@@ -2878,7 +2878,7 @@ a:visited {
     display: inline-block;
     width: 10px;
     height: 10px;
-    background: url(//cdnimg.melon.co.kr/resource/image/web/main/icon_main.png) no-repeat -1px -58px
+    background: url('../resource/icon_main.png') no-repeat -1px -58px
 }
 
 .realtime_soar_keyword a.title {
@@ -2887,7 +2887,7 @@ a:visited {
     width: 42px;
     height: 16px;
     margin: 3px 0 0 3px;
-    background: url(//cdnimg.melon.co.kr/resource/image/web/main/bg_loce_151207.png) no-repeat left top;
+    background: url('../resource/bg_loce_151207.png') no-repeat left top;
     font-size: 0;
     line-height: 0;
     vertical-align: top;
