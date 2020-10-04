@@ -1048,7 +1048,7 @@
   display: inline-block;
   width: 16px;
   height: 16px;
-  background: url(//cdnimg.melon.co.kr/resource/image/web/customer/btn_rolling.png) no-repeat 0 0;
+  background: url('../resource/customer/btn_rolling.png') no-repeat 0 0;
 }
 
 .cast_flash .rolling button.rolling_up {
@@ -1472,7 +1472,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  background: url(//cdnimg.melon.co.kr/resource/image/web/customer/bg_svc.png) no-repeat 0 0;
+  background: url('../resource/customer/bg_svc.png') no-repeat 0 0;
   width: 104px;
   height: 91px;
 }
@@ -1523,7 +1523,7 @@
 .srvc_cate ul li ul li a {
   display: block;
   padding: 4px 0 6px 17px;
-  background: url(//cdnimg.melon.co.kr/resource/image/web/customer/bullet_list02.png) no-repeat 6px 11px;
+  background: url('../resource/customer/bullet_list02.png') no-repeat 6px 11px;
   color: #1a1a1a;
 }
 
