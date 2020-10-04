@@ -78,25 +78,26 @@
               </li>
             </ul>
             <!-- 검색어가 없을 때 -->
-            <ul class="text_resutlt">
-              <li class="result_none"><span>
-                  해당글자로 시작하는 단어가 없습니다.
+            <ul class="text_result">
+              <li class="result_none">
+                <span>해당글자로 시작하는 단어가 없습니다.
                 </span>
               </li>
             </ul>
           </div>
         </fieldset>
         <form style="display: none" id="searchFrm" method="get" action="">
-          <input type="hidden" name="q">
-          <input type="hidden" name="section">
+          <input type="hidden" name="q"/>
+          <input type="hidden" name="section"/>
         </form>
         <!-- 통합검색 영역 -->
 
         <!-- 실시간 검색어 -->
         <div class="realtime_soar_keyword">
-          <a href="https://www.melon.com/search/trend/index.htm" class="title">급상승 키워드</a>
+          <a href="https://www.melon.com/search/trend/index.htm" class="title" style="display: inline-block;">급상승 키워드</a>
           <div class="keyword_overlay">
             <ol style="overflow:hidden; height:20px;"></ol>
+            <!-- 롤링 영역 -->
             <a href="https://www.melon.com/search/trend/index.htm" class="keyword_more" title="실시간 순위"><span>더보기</span></a>
           </div>
         </div>
